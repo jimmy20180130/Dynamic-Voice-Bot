@@ -36,4 +36,4 @@ async def on_voice_state_update(member, before, after):
         await before.channel.delete()
         save_data(data)
         
-bot.run('MTEyMDU4NDAyMTI5OTE3NTUyNA.GClg03.3bN0K01aHBaH1jq35VSLNM4adzNY93BOPMcwrc')
+bot.run('token')
